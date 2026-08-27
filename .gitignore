@@ -1,0 +1,7 @@
+a.out
+*.o
+*.out
+medialib
+.vscode/
+.idea/
+.DS_Store
